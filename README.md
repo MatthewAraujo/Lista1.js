@@ -1,2 +1,2 @@
-# Lista1.js
+# Listas.js
 Lista JavaScript
